@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\CyberCareerFitAnalyzer\CyberCareerFitAnalyzer\obj\Debug\net8.0\CyberCareerFitAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\CyberCareerFitAnalyzer\CyberCareerFitAnalyzer\obj\Debug\net8.0\CyberCareerFitAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\CyberCareerFitAnalyzer\CyberCareerFitAnalyzer\obj\Debug\net8.0\CyberCareerFitAnalyzer.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\CyberCareerFitAnalyzer\CyberCareerFitAnalyzer\obj\Debug\net8.0\CyberCareerFitAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\CyberCareerFitAnalyzer\CyberCareerFitAnalyzer\bin\Debug\net8.0\CyberCareerFitAnalyzer.exe
+C:\Users\Jeff\source\repos\CyberCareerFitAnalyzer\CyberCareerFitAnalyzer\bin\Debug\net8.0\CyberCareerFitAnalyzer.deps.json
+C:\Users\Jeff\source\repos\CyberCareerFitAnalyzer\CyberCareerFitAnalyzer\bin\Debug\net8.0\CyberCareerFitAnalyzer.runtimeconfig.json
+C:\Users\Jeff\source\repos\CyberCareerFitAnalyzer\CyberCareerFitAnalyzer\bin\Debug\net8.0\CyberCareerFitAnalyzer.dll
+C:\Users\Jeff\source\repos\CyberCareerFitAnalyzer\CyberCareerFitAnalyzer\bin\Debug\net8.0\CyberCareerFitAnalyzer.pdb
+C:\Users\Jeff\source\repos\CyberCareerFitAnalyzer\CyberCareerFitAnalyzer\obj\Debug\net8.0\CyberCareerFitAnalyzer.dll
+C:\Users\Jeff\source\repos\CyberCareerFitAnalyzer\CyberCareerFitAnalyzer\obj\Debug\net8.0\refint\CyberCareerFitAnalyzer.dll
+C:\Users\Jeff\source\repos\CyberCareerFitAnalyzer\CyberCareerFitAnalyzer\obj\Debug\net8.0\CyberCareerFitAnalyzer.pdb
+C:\Users\Jeff\source\repos\CyberCareerFitAnalyzer\CyberCareerFitAnalyzer\obj\Debug\net8.0\CyberCareerFitAnalyzer.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\CyberCareerFitAnalyzer\CyberCareerFitAnalyzer\obj\Debug\net8.0\ref\CyberCareerFitAnalyzer.dll
